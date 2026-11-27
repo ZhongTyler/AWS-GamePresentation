@@ -1,5 +1,8 @@
 # GamePresentation
 
+新增按未知选验证载体、原生产控件连续操作及游戏整屏构图方法。可选方法不可用时沿包内标准继续；不附带尚未公开的画室或角色生产链。
+[Release and recovery](docs/releases/2.1.0.md)
+
 
 [English](README.en.md)
 

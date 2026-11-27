@@ -6,8 +6,8 @@
     ".module/module_manager.py": "bfa0d8c7ea6efda126b7a8c656409875994b4bd1256e6d90f5d75652a9aca2b0",
     "AGENTS.md": "ffe0f3d61d70dd2bf71db37deea226f041ffa4fe6b9843d3e87c0d3f88e8b71e",
     "LICENSE": "833d6fe27647cc75fef801dbe3a192ef4230447d878a69bfce70b80f7e9f518a",
-    "README.en.md": "2dc6b968bb75a6c90c271edbb029f4f756bdb5b9b63021ed884c0b39b4d6a371",
-    "README.md": "9fbea6bf6b99ce9076ca0191c2437a62c5e69deec784bb6c327bb97deb2d3505",
+    "README.en.md": "8f47e86004aa75768f7ae5e8da07130efcf3c1883daa976fa74734134d6ee8cf",
+    "README.md": "c522c16ae5281d3acd1ce473f8f075e8d0986a2108b92e26805a90e30d2bc599",
     "_release.json": "8188248e33993c4c7197a18b0415f8075dfaa4ed05c1bfd117aadd640b466e78",
     "adapters/README.md": "d66f7c53d3b19bf6d3f5efb3d8f29b4017ca8403a038cedb8b2dd595f8ba5397",
     "adapters/godot/README.md": "febf8ad6db1d29c510f9b9165198772e540dcf94982a69a1f4222296c7bb9726",
@@ -23,10 +23,12 @@
     "adapters/resource-review/gallery.html": "6e8550c051a61b69ffd3ede195bf6b5cc91aeab160f8451c6f1ce4ccbb551de0",
     "adapters/resource-review/render.cjs": "34b5893ad908ba6a18d3b6ec6d4d6e4fe6af0e010756aa58c6cb3a5838fd7f2b",
     "docs/module-cooperation.md": "2be54cfe577cb852b21128006ccfddfbf7c4dda45f7f405aa706dc6438cc5af5",
+    "docs/releases/2.1.0.md": "f5f5ffc3d9cbfc0b93eb17b6e07dd3d8d8af8f5c0c52643f99980500e5bc403f",
+    "game-screen-visual-direction.md": "cf42b33d7ac3141f5a5b2954f99b9d2763444ff41f6a1d47263aa09a2d88b5fc",
     "generated-art.md": "e3f617c55ea2faecc9053cff84b6bd8f66826bd27c8185afc35bf74cddaf7471",
     "local-image-workflow.md": "e3478a279ccb36ed55144b4050f5c8f3a7a4bae1755456fca3ba745c59ff4d0b",
     "maintenance/capability-status.md": "414da793fae022a64db3059ec4172d3cc5e513119c29cd705dcff64f37a1e30a",
-    "module.json": "7180492d12181f0712bf32bbc87d5462f3175dd65d3f0d0149fad6e84996dfbd",
+    "module.json": "2420e164a7e45713f2ff05c6831f210fef236223609815fd3174de1e03257d68",
     "pixel-asset-production.md": "1ba033c25b86e2a068dd01efdcebab54d12ee7c8e179b1d61da4f4af315e7964",
     "project-assets.md": "f43e916549be1e0205879c75b4c5de888898f52cbad1a08d5c43ca198167b9d8",
     "project-atlas.md": "1fae8589ef390c8a5fe40d65559413945cea9785c7860f7be72978e698c010ce",
@@ -43,9 +45,11 @@
     "tests/publish-directory.test.mjs": "4ca631c0d1f83939b6dc2a6e969798a8686d864217713f78b2f18ca5b7601ad0",
     "tests/resource-review-boundaries.test.mjs": "8322c6446352eccb58a156038dc4c900332552b019deab1c69550a45c8ae9c83",
     "tests/workbench-delivery.test.mjs": "e9e610a726bbb8b1d66181cc76d926982d2c9d0e0d7da2b3e33ef9a136bf5d99",
-    "workflow.md": "4f7c554bd40433770898d578ad2b1b808dcfc5e82dc2eafcb251212239d4904d"
+    "ui-state-validation.md": "53a52d150c1e54e72aa104a9a01b5ff042e6a87976442d99a8991bfcac08c450",
+    "validation-carriers.md": "8a131710c24cf750ea3752bb1276a5e17db44c3cfcb8a74a830bd48a889d9384",
+    "workflow.md": "6a5b06e2a3aa6675627f501050fd3e41951333eaa1eb03874c1d3d7599fba5b1"
   },
   "id": "game-presentation",
   "schema_version": 1,
-  "version": "2.0.0"
+  "version": "2.1.0"
 }

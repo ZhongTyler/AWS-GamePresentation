@@ -11,6 +11,12 @@
 
 反复调节时长、轨迹、色彩、光照、音量等却难以比较时，按[共用观察、调参与复现方法](https://github.com/ZhongTyler/AgentWorkSpace/blob/v1.14.1/meta/workspace/collaboration/support-and-learning.md#运行反馈按需观察调参与复现)复用或补齐现有预览。该方法覆盖所有需要的系统；本流程只处理表现分支，保持规则不变，不强制额外工作台或Skill。
 
+需要决定验证载体时，按[当前未知选择验证载体](validation-carriers.md)保留真实关键环节。UI 状态难复现或重绘打断操作时，沿[同源状态与完整操作](ui-state-validation.md)在原生产控件中走完整任务。
+
+## 游戏页面视觉方向
+
+新页面、整屏改版或区域主次不清时，按[整屏构图与连续场景](game-screen-visual-direction.md)先用真实内容做代表画面，核对当前对象、比较信息和下一动作。视觉方向成立后再扩状态；已有方向的局部修改只复核影响部分。
+
 ## 阶段及退出
 | 阶段 | 工作方法 | 最小产物 | 退出证据 |
 |---|---|---|---|

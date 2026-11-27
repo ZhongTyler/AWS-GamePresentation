@@ -1,5 +1,8 @@
 # GamePresentation
 
+Adds focused validation carriers, continuous operation through production controls and game screen composition guidance. No private Studio or unpublished character production chain is included.
+[Release and recovery](docs/releases/2.1.0.md)
+
 [简体中文](README.md)
 
 Prepare, review and integrate game presentation resources.
